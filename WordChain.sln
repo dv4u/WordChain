@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordChain", "WordChain\WordChain.csproj", "{57621B6B-A75E-4F56-AD8E-C74253484BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordChainTests", "WordChainTests\WordChainTests.csproj", "{FE9D8994-8980-45E0-B484-1B3C3E263B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57621B6B-A75E-4F56-AD8E-C74253484BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57621B6B-A75E-4F56-AD8E-C74253484BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57621B6B-A75E-4F56-AD8E-C74253484BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57621B6B-A75E-4F56-AD8E-C74253484BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9D8994-8980-45E0-B484-1B3C3E263B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9D8994-8980-45E0-B484-1B3C3E263B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9D8994-8980-45E0-B484-1B3C3E263B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9D8994-8980-45E0-B484-1B3C3E263B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
